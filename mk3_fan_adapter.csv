@@ -1,0 +1,15 @@
+Total Parts,7
+Total Unique Parts,7
+
+Ref,Qty,Value,Footprint,Datasheet,
+C1 ,1,100nF,Capacitors_SMD:C_0603,
+D1 ,1,S1M,Diodes_SMD:D_SMA,https://www.tme.eu/en/Document/847625da169ad5ed3efdb446f845004f/s1a.pdf
+F1 ,1,250mA,Fuse_Holders_and_Fuses:Fuse_CB61F,
+J1 ,1,FAN1,Connectors_Terminal_Blocks:TerminalBlock_Pheonix_PT-3.5mm_3pol,
+J2 ,1,FAN2,Connectors_Terminal_Blocks:TerminalBlock_Pheonix_PT-3.5mm_2pol,
+P1 ,1,POWER_IN,Pin_Headers:Pin_Header_Angled_1x01_Pitch2.54mm,
+P2 ,1,FAN_IN,Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm,
+
+
+BOM made with KICAD_BOM_WIZARD (https://github.com/HashDefineElectronics/KiCad_BOM_Wizard.git)
+Generated Tue 28 Aug 2018 10:28:22 PM EEST
