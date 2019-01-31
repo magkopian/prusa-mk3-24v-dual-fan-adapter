@@ -1,6 +1,8 @@
 Dual 24V Fan Adapter for the Original Prusa i3 MK3
 ================================
 
+![Device](/board.jpg?raw=true)
+
 ## Description:
 
 This is an adapter board that allows you to easily connect two 24V fans on an Original Prusa i3 MK3 in place of the stock 5V fan. This repository contains the source design files, as well as [gerber files](/gerbers) for easily ordering PCBs from the PCB manufacturer of your choice.
